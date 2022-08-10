@@ -1,0 +1,2 @@
+keywords = ('for', 'if', 'else', 'in', ':')
+print(f"{keywords[0]} each token {keywords[3]} the postfix expression {keywords[-1]} \n\t{keywords[1]} the token is a number {keywords[-1]}\n\t\tprint('Convert it to an integer and add it to the end of values')\n\t{keywords[2]}\n\t\tprint('Append the result to the end of values')")
